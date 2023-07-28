@@ -70,7 +70,7 @@ npx degit https://github.com/ChemaAlfonso/ts-vue-boilerplate <project-directory>
 2. Run npm run generate-traductions.
 2. A .pot file is generated on ./lang
 
-## Folder Structure
+## Directory Structure
 
 The project structure is organized as follows:
 
