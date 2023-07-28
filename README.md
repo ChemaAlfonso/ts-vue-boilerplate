@@ -70,7 +70,22 @@ npx degit https://github.com/ChemaAlfonso/ts-vue-boilerplate <project-directory>
 
 ## Internationalization
 
-1. Use getText provided function across your project.
+The provided gettext extractor extracts texts to generate translations on several ways:
+```html
+    <!-- Extract from scripts using getText function -->
+    <script>getText('text')</script>
+
+    <!-- Extract innerText content from elements with gettext attr -->
+    <span v-gettext>text</span>
+
+    <!-- Extract from elements with getText attr -->
+    <span :attr="getText('text')"></span>
+
+    <!-- Extract from elements with getText content -->
+    <span>{{ getText('text') }}</span>
+```
+
+1. Use the provided `getText` function or `v-gettext` directive across your project.
 
 2. Run:
 ```bash
