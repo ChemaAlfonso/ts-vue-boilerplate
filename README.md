@@ -1,23 +1,23 @@
 <p align="center">
-<a href="https://v3.vuejs.org/"><img src="https://img.shields.io/badge/-Vue%203-42b883?logo=vue.js"></a>
-<a href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/-Vue%20Router-brightgreen?logo=vue-router"></a>
- <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript"></a>
-<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-pink?logo=sass"></a>
-<a href="https://eslint.org/"><img src="https://img.shields.io/badge/-Eslint-orange?logo=eslint"></a>
-<a href="https://prettier.io/"><img src="https://img.shields.io/badge/-Prettier-yellow?logo=prettier"></a>
-<a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/-Pinia-green?logo=pinia"></a>
-<a href="https://github.com/lukasgeiter/gettext-extractor"><img src="https://img.shields.io/badge/-Gettext%20Extractor-lightgrey"></a>
-<a href="https://github.com/zloirock/core-js"><img src="https://img.shields.io/badge/-core--js-ff69b4"></a>
+<a target="_blank" href="https://v3.vuejs.org/"><img src="https://img.shields.io/badge/-Vue%203-42b883?logo=vue.js"></a>
+<a target="_blank" href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/-Vue%20Router-brightgreen?logo=vue-router"></a>
+ <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript"></a>
+<a target="_blank" href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-pink?logo=sass"></a>
+<a target="_blank" href="https://eslint.org/"><img src="https://img.shields.io/badge/-Eslint-orange?logo=eslint"></a>
+<a target="_blank" href="https://prettier.io/"><img src="https://img.shields.io/badge/-Prettier-yellow?logo=prettier"></a>
+<a target="_blank" href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/-Pinia-green?logo=pinia"></a>
+<a target="_blank" href="https://github.com/lukasgeiter/gettext-extractor"><img src="https://img.shields.io/badge/-Gettext%20Extractor-lightgrey"></a>
+<a target="_blank" href="https://github.com/zloirock/core-js"><img src="https://img.shields.io/badge/-core--js-ff69b4"></a>
 </p>
 
 
 # Internationalizable TS-vue-boilerplate
 
 <p align="center">
-    <a href="https://v3.vuejs.org/">
+    <a target="_blank" href="https://v3.vuejs.org/">
         <img src="https://vuejs.org/images/logo.png" width="200">
     </a>
-    <a href="https://krakenlabsweb.com/">
+    <a target="_blank" href="https://krakenlabsweb.com/">
         <img src="https://krakenlabsweb.com/img/aro-kraken.83653f87.png" width="200">
     </a>
 </p>
