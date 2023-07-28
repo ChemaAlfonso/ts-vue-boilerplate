@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="Sass">
-  <img src="https://img.shields.io/badge/-core--js-ff69b4" alt="core-js">
-  <img src="https://img.shields.io/badge/-Eslint-orange?logo=eslint" alt="Eslint">
-  <img src="https://img.shields.io/badge/-Prettier-yellow?logo=prettier" alt="Prettier">
-  <img src="https://img.shields.io/badge/-Pinia-green?logo=pinia" alt="Pinia">
-  <img src="https://img.shields.io/badge/-Gettext%20Extractor-lightgrey" alt="Gettext Extractor">
+<a href="https://v3.vuejs.org/"><img src="https://img.shields.io/badge/-Vue%203-42b883?logo=vue.js"></a>
+<a href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/-Vue%20Router-brightgreen?logo=vue-router"></a>
+ <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript"></a>
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-pink?logo=sass"></a>
+<a href="https://eslint.org/"><img src="https://img.shields.io/badge/-Eslint-orange?logo=eslint"></a>
+<a href="https://prettier.io/"><img src="https://img.shields.io/badge/-Prettier-yellow?logo=prettier"></a>
+<a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/-Pinia-green?logo=pinia"></a>
+<a href="https://github.com/lukasgeiter/gettext-extractor"><img src="https://img.shields.io/badge/-Gettext%20Extractor-lightgrey"></a>
+<a href="https://github.com/zloirock/core-js"><img src="https://img.shields.io/badge/-core--js-ff69b4"></a>
 </p>
 
 
@@ -24,6 +26,10 @@ This is an opinionated boilerplate project for Vue 3 that comes with several pre
 ## Template Features
 
 The TS-vue-boilerplate comes with the following features:
+
+- **Vue 3**: The project uses Vue 3, the latest major version of the Vue.js framework, which brings improved performance and new features.
+
+- **Vue Router**: Vue Router is integrated & ready to provide routing capabilities for your Vue.js application, making it easy to create single-page applications with multiple views. [Learn more](https://router.vuejs.org/)
 
 - **Typescript**: The project is set up with TypeScript, a powerful typed superset of JavaScript that enhances your code's maintainability and productivity. [Learn more](https://www.typescriptlang.org/)
 
@@ -52,10 +58,10 @@ To start using this boilerplate in your own project, you can use the [degit](htt
 
 1. Open your terminal or command prompt.
 
-2. Run the following command to create a new project folder and clone the boilerplate:
+2. Run the following command to create a new project directory and clone the boilerplate:
 
 ```bash
-npx degit https://github.com/ChemaAlfonso/ts-vue-boilerplate <project-folder>
+npx degit https://github.com/ChemaAlfonso/ts-vue-boilerplate <project-directory>
 ```
 
 ## Internationalization
