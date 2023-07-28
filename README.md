@@ -86,7 +86,7 @@ The project structure is organized as follows:
         - 📁 img
             - Image files
         - 📁 styles
-            - CSS stylesheets
+            - SCSS stylesheets
     - 📁 components
         - Vue components
     - 📁 lang
