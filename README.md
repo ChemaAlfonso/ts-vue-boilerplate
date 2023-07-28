@@ -124,8 +124,6 @@ The project structure is organized as follows:
         - Project related modules to use on components
     - 📁 router
         - Vue Router configuration
-    - 📁 views
-        - Vue views
     - 📄 App.vue
         - Root Vue component
     - 📄 main.ts
