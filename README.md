@@ -71,8 +71,12 @@ npx degit https://github.com/ChemaAlfonso/ts-vue-boilerplate <project-directory>
 ## Internationalization
 
 1. Use getText provided function across your project.
-2. Run npm run generate-traductions.
-2. A .pot file is generated on ./lang
+
+2. Run:
+```bash
+ npm run generate-translations
+```
+3. A .pot file is generated on ./lang
 
 ## Directory Structure
 
