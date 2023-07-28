@@ -1,0 +1,13 @@
+:root {
+    --app-max-width: 1220px;
+}
+
+@mixin contained {
+    max-width: var(--app-max-width);
+    margin: 0 auto;
+}
+
+@mixin contained--padded {
+    @include contained();
+    max-width: min(var(--app-max-width), 95vw);
+}

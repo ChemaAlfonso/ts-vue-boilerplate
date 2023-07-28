@@ -1,0 +1,39 @@
+{
+  "name": "ts-vue-boilerplate",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A boilerplate project for Vue.js with built-in internationalization support, Core-js, TypeScript, Sass, Eslint, Prettier, Pinia for state management, and Gettext extractor for handling translations.",
+  "author": "Chema Alfonso <hola@chemaalfonso.com>",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "generate-traductions": "node lang/extract-text.js"
+  },
+  "dependencies": {
+    "core-js": "^3.32.0",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/parser": "^6.2.0",
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-plugin-eslint": "~5.0.8",
+    "@vue/cli-plugin-router": "~5.0.8",
+    "@vue/cli-plugin-typescript": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
+    "@vue/eslint-config-typescript": "^11.0.3",
+    "eslint": "^8.45.0",
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-vue": "^9.15.1",
+    "gettext-extractor": "^3.8.0",
+    "prettier": "^3.0.0",
+    "sass": "^1.64.1",
+    "sass-loader": "^13.3.2",
+    "typescript": "~5.1.6"
+  },
+  "license": "MIT"
+}

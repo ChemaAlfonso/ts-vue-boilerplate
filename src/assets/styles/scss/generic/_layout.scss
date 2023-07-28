@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+  Allow percentage-based heights in the application
+*/
+html,
+body {
+    height: 100%;
+}
+
+/*
+  Typographic tweaks!
+  Add accessible line-height
+  Improve text rendering
+*/
+body {
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+/* Forms */
+html,
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+    -webkit-font-smoothing: antialiased;
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
