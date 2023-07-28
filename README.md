@@ -39,13 +39,24 @@ The TS-vue-boilerplate comes with the following features:
 
 - **Gettext Extractor**: This boilerplate includes Gettext extractor, a tool to extract internationalization messages from your Vue components, making it easier to handle translations. [Learn more](https://github.com/lukasgeiter/gettext-extractor)
 
-## Getting Started
+## Getting Started (Keeping git history)
 
 1. Clone this repository.
 2. Install the required dependencies by running `npm install`.
 3. Start the development server with `npm run serve`.
 4. You are now ready to build your amazing internationalized Vue.js application!
 
+## How to use on your own project (Fresh copy)
+
+To start using this boilerplate in your own project, you can use the [degit](https://github.com/Rich-Harris/degit) tool with "npx" to clone the repository without keeping the git history. This way, you can get a fresh copy of the boilerplate and customize it for your needs. Follow these steps:
+
+1. Open your terminal or command prompt.
+
+2. Run the following command to create a new project folder and clone the boilerplate:
+
+```bash
+npx degit https://github.com/ChemaAlfonso/ts-vue-boilerplate <project-folder>
+```
 
 ## Internationalization
 
