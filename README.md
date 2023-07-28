@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Sass-pink?logo=sass" alt="Sass">
+  <img src="https://img.shields.io/badge/-core--js-ff69b4" alt="core-js">
+  <img src="https://img.shields.io/badge/-Eslint-orange?logo=eslint" alt="Eslint">
+  <img src="https://img.shields.io/badge/-Prettier-yellow?logo=prettier" alt="Prettier">
+  <img src="https://img.shields.io/badge/-Pinia-green?logo=pinia" alt="Pinia">
+  <img src="https://img.shields.io/badge/-Gettext%20Extractor-lightgrey" alt="Gettext Extractor">
+</p>
+
+
 # Internationalizable TS-vue-boilerplate
 
 <p align="center">
