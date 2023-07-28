@@ -14,8 +14,12 @@
 # Internationalizable TS-vue-boilerplate
 
 <p align="center">
-<img src="https://vuejs.org/images/logo.png" width="200">
-<img src="https://krakenlabsweb.com/img/aro-kraken.83653f87.png" width="200">
+    <a href="https://v3.vuejs.org/">
+        <img src="https://vuejs.org/images/logo.png" width="200">
+    </a>
+    <a href="https://krakenlabsweb.com/">
+        <img src="https://krakenlabsweb.com/img/aro-kraken.83653f87.png" width="200">
+    </a>
 </p>
 
 
@@ -27,7 +31,7 @@ This is an opinionated boilerplate project for Vue 3 that comes with several pre
 
 The TS-vue-boilerplate comes with the following features:
 
-- **Vue 3**: The project uses Vue 3, the latest major version of the Vue.js framework, which brings improved performance and new features.
+- **Vue 3**: The project uses Vue 3, the latest major version of the Vue.js framework, which brings improved performance and new features. [Learn more](https://v3.vuejs.org/)
 
 - **Vue Router**: Vue Router is integrated & ready to provide routing capabilities for your Vue.js application, making it easy to create single-page applications with multiple views. [Learn more](https://router.vuejs.org/)
 
